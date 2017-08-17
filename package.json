@@ -1,0 +1,27 @@
+{
+  "name": "assignment2",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "client-sessions": "latest",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "jade": "~1.11.0",
+    "mongodb": "latest",
+    "mongoose": "^4.11.4",
+    "morgan": "~1.8.1",
+    "mysql": "latest",
+    "serve-favicon": "~2.4.2",
+    "validator": "latest",
+    "read": "latest",
+    "async": "latest",
+    "q": "latest",
+    "line-reader": "latest",
+    "csv": "latest"
+  },
+  "scripts": {
+    "start": "node ./bin/www"
+  }
+}
